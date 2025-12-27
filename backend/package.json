@@ -1,0 +1,11 @@
+{
+  "name": "mcq-backend",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^2.0.2",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^5.4.449"
+  }
+}
